@@ -1,3 +1,3 @@
-# SQL-Exploratory-Data
+# SQL_Practice
 
-This repository contains datasets that I've explored using SQL.
+This repository contains datasets that I've practice SQL with.
