@@ -1,3 +1,3 @@
 # SQL_Practice
 
-This repository contains datasets that I've practice SQL with.
+This repository contains SQL queries that I've written to clean and explore datasets.
