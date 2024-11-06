@@ -84,10 +84,6 @@ SELECT date, company
 FROM layoffs_distinct
 WHERE STR_TO_DATE(date, '%m/%d/%Y') IS NULL;
 
-UPDATE layoffs_distinct
-SET date = '12/30/5678'
-WHERE date = '12/34/5678';
-
 -- CHANGE DATE COLUMN TO DATE DATATYPE
 ALTER TABLE layoffs_distinct
 MODIFY COLUMN `date` DATE;
